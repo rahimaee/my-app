@@ -1,0 +1,5 @@
+appId: com.example.ElectronAutoUpdate
+publish:
+  provider: github
+  token: [ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIASku5yrRkQpx59ud8VYwOoj3Mo0qdLXbZhQ0seIVoLQ mohammad.rahimaee@gmail.com
+]
